@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Cailus Text Editor\bin\Debug\Cailus Text Editor.exe.config
+C:\Users\User\source\repos\Cailus Text Editor\bin\Debug\Cailus Text Editor.exe
+C:\Users\User\source\repos\Cailus Text Editor\bin\Debug\Cailus Text Editor.pdb
+C:\Users\User\source\repos\Cailus Text Editor\obj\Debug\Cailus Text Editor.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Cailus Text Editor\obj\Debug\Cailus_Text_Editor.Form1.resources
+C:\Users\User\source\repos\Cailus Text Editor\obj\Debug\Cailus_Text_Editor.Properties.Resources.resources
+C:\Users\User\source\repos\Cailus Text Editor\obj\Debug\Cailus Text Editor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Cailus Text Editor\obj\Debug\Cailus Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cailus Text Editor\obj\Debug\Cailus Text Editor.exe
+C:\Users\User\source\repos\Cailus Text Editor\obj\Debug\Cailus Text Editor.pdb
+C:\Users\User\source\repos\Cailus Text Editor\obj\Debug\Cailus_Text_Editor.About.resources
